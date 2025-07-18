@@ -33,3 +33,19 @@ dataset/
 ├── valid/
 ├── test/
 
+Results
+Model	Accuracy	Precision	Recall
+CNN (custom)	92.3%	91.5%	92.0%
+MobileNetV2	95.7%	95.2%	95.6%
+
+📈 Future Work
+🔁 Add more data and balance classes
+
+🔍 Improve stage classification accuracy
+
+☁ Deploy to cloud (Heroku, AWS, etc.)
+
+📲 Add mobile app integration
+
+🤝 Contributing
+Pull requests are welcome! Feel free to open issues for bug fixes or enhancements
